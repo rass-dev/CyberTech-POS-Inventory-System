@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="120"/>
+  <img src="Screenshots/logo.png" width="120"/>
 </p>
 
 <h2 align="center">CyberTech POS & Inventory System</h2>
@@ -39,7 +39,7 @@ CyberTech is a computer parts retail system that combines point-of-sale (POS) fu
 
 ## ⚙️ Installation
 1. Clone the repository  
-2. Open the project in Visual Studio  
+2. Open the project in Miscrosoft Visual Studio  
 3. Restore NuGet packages  
 4. Configure database connection  
 5. Run the application  
