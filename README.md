@@ -30,10 +30,10 @@ CyberTech is a computer parts retail system that combines point-of-sale (POS) fu
 ![Dashboard](Screenshots/dashboard.png)
 
 ### POS
-![POS](screenshots/pos.png)
+![POS](Screenshots/pos.png)
 
 ### Inventory
-![Inventory](screenshots/inventory.png)
+![Inventory](Screenshots/inventory.png)
 
 ---
 
