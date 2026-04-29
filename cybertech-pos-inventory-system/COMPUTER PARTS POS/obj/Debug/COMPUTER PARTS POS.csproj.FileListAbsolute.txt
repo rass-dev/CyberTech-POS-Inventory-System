@@ -1,0 +1,68 @@
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\SimpleTCP.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER PARTS POS.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formCustomPayRate.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formUpdatePaymentStatus.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.formComputer_Extend_Time.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Manage_Session.formSave_Time.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Saved_Time.formContinueSaveTime.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Form1.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAddAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Members.formAdminRegister.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.Login.formLOGIN_REGISTER.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAddMembers.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAdminLogin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formDashboard.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAddComp.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formEditAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formEditMembers.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formEditPC.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC_Time_Amount.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formMembers.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formAbout.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formViewAllPC.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\InternetCafe.formComputer_Manage_Time.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER PARTS POS.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER PARTS POS.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER.84815107.Up2Date
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER_PARTS_POS.Properties.Resources.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\COMPUTER PARTS POS.exe.config
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\COMPUTER PARTS POS.exe
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\bin\Debug\COMPUTER PARTS POS.pdb
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER PARTS POS.exe
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\InternetCafeSystem\obj\Debug\COMPUTER PARTS POS.pdb
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\COMPUTER PARTS POS.exe.config
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\COMPUTER PARTS POS.exe
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\COMPUTER PARTS POS.pdb
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\SimpleTCP.dll
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER PARTS POS.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER_PARTS_POS.Properties.Resources.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER PARTS POS.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER PARTS POS.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER.84815107.Up2Date
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER PARTS POS.exe
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER PARTS POS.pdb
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.Form1.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAddAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAdminLogin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formDashboard.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formEditAdmin.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAbout.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAddProduct.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formAddSupplier.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER_PARTS_POS.COMPUTER_PARTS_POS.Supply.formAddCategory.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formStore.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER_PARTS_POS.COMPUTER_PARTS_POS.Staff.Staff_Store_and_Inventory.Inventory_Staff.formInventoryStaff.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formSalesHistory.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\ComputerPartsPOS.formCashierPOS.resources
+C:\Users\rassa\source\repos\COMPUTER PARTS  POS\COMPUTER PARTS POS\obj\Debug\COMPUTER_PARTS_POS.COMPUTER_PARTS_POS.Computers_Store.formReturnItems.resources

@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|c:\\users\\rassa\\source\\repos\\computer parts  pos\\computer parts pos\\computer parts pos\\admins\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\admins\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|c:\\users\\rassa\\source\\repos\\computer parts  pos\\computer parts pos\\computer parts pos\\admins\\formeditadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\admins\\formeditadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|c:\\users\\rassa\\source\\repos\\computer parts  pos\\computer parts pos\\computer parts pos\\admins\\formaddadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\admins\\formaddadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formreturnitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formreturnitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|c:\\users\\rassa\\source\\repos\\computer parts  pos\\computer parts pos\\computer parts pos\\computers store\\formstore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formstore.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formsaleshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\login\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\login\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\dashbord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\dashbord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\staff\\staff store and inventory\\inventory staff\\forminventorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\staff\\staff store and inventory\\inventory staff\\forminventorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\dashbord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\dashbord\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\staff\\staff store and inventory\\cashier\\formcashierpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\staff\\staff store and inventory\\cashier\\formcashierpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\staff\\staff store and inventory\\cashier\\formcashierpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\staff\\staff store and inventory\\cashier\\formcashierpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\login\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\login\\formadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\staff\\staff store and inventory\\inventory staff\\forminventorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\staff\\staff store and inventory\\inventory staff\\forminventorystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\computers store\\formreturnitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\computers store\\formreturnitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\computer parts pos\\computer parts pos\\supply\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|COMPUTER PARTS POS\\COMPUTER PARTS POS.csproj|solutionrelative:computer parts pos\\computer parts pos\\supply\\formaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAdmin.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAdmin.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAdmin.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:20:14.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formEditAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formEditAdmin.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formEditAdmin.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formEditAdmin.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formEditAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:20:13.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formStore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:21:35.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formStore.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAtwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:21:37.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formSalesHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:30:51.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formAddAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAddAdmin.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAddAdmin.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAddAdmin.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Admins\\formAddAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:20:10.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formStore.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.Designer.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.Designer.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formStore.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAApwKoAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:45:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formSalesHistory.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formSalesHistory.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowH4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:57:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formAddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAswL4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formReturnItems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:17:53.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formAddProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formAdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwG4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:39:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formAddCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:12.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "formCashierPOS.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAwFoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:14:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "formCashierPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Cashier\\formCashierPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:13:45.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "formInventoryStaff.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAqwOQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:38:40.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:48:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Dashbord\\Form1.cs",
+              "ViewState": "AQIAABcCAAAAAAAAAAAowEMCAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:48:00.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "formAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Login\\formAdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:39:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "formInventoryStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Staff\\Staff Store and Inventory\\Inventory Staff\\formInventoryStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:38:39.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "formReturnItems.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Computers Store\\formReturnItems.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAhwNEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:17:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "formAddSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAawPYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:46.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "formAddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddProduct.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAEwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:43.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "formAddSupplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "RelativeDocumentMoniker": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\COMPUTER PARTS  POS\\COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs [Design]",
+              "RelativeToolTip": "COMPUTER PARTS POS\\COMPUTER PARTS POS\\Supply\\formAddSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:24:37.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

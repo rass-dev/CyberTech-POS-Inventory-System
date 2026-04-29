@@ -1,0 +1,77 @@
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formSub2.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formUsers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formSub1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub2.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formUsers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formCustomPayRate.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formUpdatePaymentStatus.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.formComputer_Extend_Time.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Manage_Session.formSave_Time.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Saved_Time.formContinueSaveTime.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Members.formAdminRegister.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Login.formLOGIN_REGISTER.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdminLogin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddComp.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditPC.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC_Time_Amount.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formViewAllPC.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formComputer_Manage_Time.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.exe
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Client_Computer.ComputerInterface.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\SimpleTCP.dll

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{455A6B5A-2251-4D70-817F-7A93DBD823E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>COMPUTER_PARTS_POS</RootNamespace>
+    <AssemblyName>COMPUTER PARTS POS</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ReaLTaiizor, Version=3.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReaLTaiizor.3.8.0\lib\net48\ReaLTaiizor.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleTCP, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleTCP.1.0.24\lib\net45\SimpleTCP.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="COMPUTER PARTS POS\Admins\formAddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Admins\formAddAdmin.Designer.cs">
+      <DependentUpon>formAddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\formReturnItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\formReturnItems.Designer.cs">
+      <DependentUpon>formReturnItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Cashier\formCashierPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Cashier\formCashierPOS.Designer.cs">
+      <DependentUpon>formCashierPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Inventory Staff\formInventoryStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Inventory Staff\formInventoryStaff.Designer.cs">
+      <DependentUpon>formInventoryStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddCategory.Designer.cs">
+      <DependentUpon>formAddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddProduct.Designer.cs">
+      <DependentUpon>formAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Admins\formAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Admins\formAdmin.Designer.cs">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Login\formAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Login\formAdminLogin.Designer.cs">
+      <DependentUpon>formAdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\formDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\formDashboard.Designer.cs">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\formSalesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\.Designer.cs">
+      <DependentUpon>formSalesHistory.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Admins\formEditAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Admins\formEditAdmin.Designer.cs">
+      <DependentUpon>formEditAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Supply\formAddSupplier.Designer.cs">
+      <DependentUpon>formAddSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\formAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Dashbord\formAbout.Designer.cs">
+      <DependentUpon>formAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\formStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\Computers Store\formStore.Designer.cs">
+      <DependentUpon>formStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COMPUTER PARTS POS\mdiProperties.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="COMPUTER PARTS POS\Admins\formAddAdmin.resx">
+      <DependentUpon>formAddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Computers Store\formReturnItems.resx">
+      <DependentUpon>formReturnItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Dashbord\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Cashier\formCashierPOS.resx">
+      <DependentUpon>formCashierPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Staff\Staff Store and Inventory\Inventory Staff\formInventoryStaff.resx">
+      <DependentUpon>formInventoryStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Supply\formAddCategory.resx">
+      <DependentUpon>formAddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Supply\formAddProduct.resx">
+      <DependentUpon>formAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Admins\formAdmin.resx">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Login\formAdminLogin.resx">
+      <DependentUpon>formAdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Dashbord\formDashboard.resx">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Computers Store\formSalesHistory.resx">
+      <DependentUpon>formSalesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Admins\formEditAdmin.resx">
+      <DependentUpon>formEditAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Supply\formAddSupplier.resx">
+      <DependentUpon>formAddSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Dashbord\formAbout.resx">
+      <DependentUpon>formAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COMPUTER PARTS POS\Computers Store\formStore.resx">
+      <DependentUpon>formStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="COMPUTER PARTS POS\App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
